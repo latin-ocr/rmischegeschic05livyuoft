@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rmischegeschic05livyuoft_0009.png"; bbox 0 0 1702 3028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 160 814 1446 879">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 160 814 1446 879">
+     <span class='ocr_line' id='line_1_1' title="bbox 160 814 1446 879; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 160 819 371 879; x_wconf 88' lang='lat' dir='ltr'><strong>NEUN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 419 817 581 877; x_wconf 91' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 627 814 1179 875; x_wconf 87' lang='lat' dir='ltr'><strong>DREISSIGSTES</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1228 814 1446 875; x_wconf 89' lang='lat' dir='ltr'>BUCH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 274 1034 1340 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 274 1034 1340 1089">
+     <span class='ocr_line' id='line_1_2' title="bbox 274 1034 1340 1089; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 274 1049 538 1089; x_wconf 60' lang='lat' dir='ltr'><strong>sanun</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 595 1048 810 1086; x_wconf 75' lang='lat' dir='ltr'><strong>noMs</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 874 1036 1021 1084; x_wconf 82' lang='lat'><strong>565</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1065 1060 1129 1069; x_wconf 96' lang='lat'>—</span> <span class='ocrx_word' id='word_1_9' title='bbox 1175 1034 1340 1084; x_wconf 83' lang='lat'><strong>569.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
